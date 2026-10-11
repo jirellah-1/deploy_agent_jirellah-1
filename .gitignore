@@ -1,0 +1,6 @@
+# Generated deployment projects and test output
+attendance_tracker_*/
+
+# Python cache
+__pycache__/
+*.pyc
