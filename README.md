@@ -1,5 +1,7 @@
 # ALU Deploy Agent - Student Attendance Tracker
 
+Video Link: https://drive.google.com/file/d/1E9_q8ZBu66Kgzk7r7qk0_e7RmfNYBQ73/view?usp=sharing
+
 ## Project Overview
 
 The Deploy Agent is a Bash script that automates the deployment,
